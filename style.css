@@ -1,0 +1,64 @@
+.titulo{
+	color:  #1aff1a;
+	background-image:url("multicolores03.gif");
+	background-size:3em;
+	font-family: 'Alfa Slab One';
+}
+.retrato{
+	margin-right:2em;
+	margin-bottom:3em;
+	
+	
+}
+img{
+	width:200px;
+	border-style:solid;
+	
+}
+/* h2{
+	color:black;
+	background-color:pink;
+	font-family: 'Concert One';
+} */
+.fa-user-graduate{
+	color:#ff4dd2;
+	size:2x;
+}
+.fa-portrait{
+	color:#ff4dd2;
+	size:2x;
+}
+.fa-id-card-alt{
+	color:#ff4dd2;
+	size:2x;
+	
+}
+.fa-address-book{
+	color:#ff4dd2;
+	size:2x;
+}
+.fa-id-card {
+	color:#ff4dd2;
+	size:2x;
+}
+body{
+	background-image:url("ladrillos04.gif");
+}
+
+li{
+	color:black;
+	background-color:pink;
+	font-family: 'Concert One';
+	font-family:'Indie Flower';
+	font-size:1em;
+	font-weight:bold;
+	
+}
+a.btn.btn-primary{
+	color:black;
+	background-color:pink;
+	font-weight:bold;
+}
+
+
+
